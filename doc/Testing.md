@@ -1,6 +1,6 @@
 # Testing
 
-## Running tests
+## Running Tomer tests
 
 To run tests on theia run:
 
