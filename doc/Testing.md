@@ -1,6 +1,6 @@
 # Testing
 
-## Running Juli tests
+## Running Alma tests
 
 To run tests on theia run:
 
