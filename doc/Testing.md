@@ -1,6 +1,6 @@
 # Testing
 
-## Running Maya tests
+## Running Juli tests
 
 To run tests on theia run:
 
