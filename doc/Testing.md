@@ -1,6 +1,6 @@
 # Testing
 
-## Running Tomer tests
+## Running Maya tests
 
 To run tests on theia run:
 
